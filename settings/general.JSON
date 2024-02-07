@@ -4,4 +4,5 @@ bookingSiteUrl: >-
 facilities:
   - name: test
     icon: Tb123
-    facilityItems: []
+    facilityItems:
+      - name: ok
