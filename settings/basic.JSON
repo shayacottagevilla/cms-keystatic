@@ -15,6 +15,6 @@ pictures:
   - pictures/7.jpeg
 facilities:
   - name: Beach
-    icon: Tb123
+    icon: TbAdjustmentsDollar
   - name: test
     icon: Tb3DCubeSphereOff
