@@ -1,4 +1,5 @@
 title: Shaya Cottage
+logo: logo.ico
 bookingSiteUrl: >-
   https://www.booking.com/hotel/id/shaya-cottage.en-gb.html?aid=337862&app_hotel_id=10198487&checkin=2024-01-17&checkout=2024-01-18&from_sn=android&group_adults=2&group_children=0&label=hotel_details-i77Uez%401705374048&no_rooms=1&req_adults=2&req_children=0&room1=A%2CA&lang=en-gb&soz=1&lang_changed=1
 pictures:
@@ -10,3 +11,119 @@ pictures:
   - pictures/5.jpeg
   - pictures/6.jpeg
   - pictures/7.jpeg
+facilities:
+  - name: test
+    icon: |-
+      function Tb123(props) {
+          return (0,_lib_index_mjs__WEBPACK_IMPORTED_MODULE_0__.GenIcon)({
+              "tag": "svg",
+              "attr": {
+                  "viewBox": "0 0 24 24",
+                  "strokeWidth": "2",
+                  "stroke": "currentColor",
+                  "fill": "none",
+                  "strokeLinecap": "round",
+                  "strokeLinejoin": "round"
+              },
+              "child": [
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "stroke": "none",
+                          "d": "M0 0h24v24H0z",
+                          "fill": "none"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M3 10l2 -2v8"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M9 8h3a1 1 0 0 1 1 1v2a1 1 0 0 1 -1 1h-2a1 1 0 0 0 -1 1v2a1 1 0 0 0 1 1h3"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M17 8h2.5a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1 -1.5 1.5h-1.5h1.5a1.5 1.5 0 0 1 1.5 1.5v1a1.5 1.5 0 0 1 -1.5 1.5h-2.5"
+                      },
+                      "child": []
+                  }
+              ]
+          })(props);
+      }
+  - name: test-2
+    icon: |-
+      function Tb24Hours(props) {
+          return (0,_lib_index_mjs__WEBPACK_IMPORTED_MODULE_0__.GenIcon)({
+              "tag": "svg",
+              "attr": {
+                  "viewBox": "0 0 24 24",
+                  "strokeWidth": "2",
+                  "stroke": "currentColor",
+                  "fill": "none",
+                  "strokeLinecap": "round",
+                  "strokeLinejoin": "round"
+              },
+              "child": [
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "stroke": "none",
+                          "d": "M0 0h24v24H0z",
+                          "fill": "none"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M4 13c.325 2.532 1.881 4.781 4 6"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M20 11a8.1 8.1 0 0 0 -15.5 -2"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M4 5v4h4"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M12 15h2a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-1a1 1 0 0 0 -1 1v1a1 1 0 0 0 1 1h2"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M18 15v2a1 1 0 0 0 1 1h1"
+                      },
+                      "child": []
+                  },
+                  {
+                      "tag": "path",
+                      "attr": {
+                          "d": "M21 15v6"
+                      },
+                      "child": []
+                  }
+              ]
+          })(props);
+      }
