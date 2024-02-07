@@ -6,3 +6,8 @@ facilities:
     icon: Tb123
     facilityItems:
       - name: ok
+    isPopular: true
+  - name: breakfast
+    icon: TbBrandVue
+    facilityItems: []
+    isPopular: false
