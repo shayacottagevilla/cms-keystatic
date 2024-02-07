@@ -16,3 +16,5 @@ pictures:
 facilities:
   - name: safd
     icon: Tb123
+  - name: test
+    icon: Tb3DCubeSphereOff
