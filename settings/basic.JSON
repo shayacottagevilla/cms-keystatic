@@ -20,3 +20,5 @@ facilities:
     icon: Tb3DCubeSphereOff
   - name: camera
     icon: Tb360View
+  - name: baru
+    icon: Tb123
