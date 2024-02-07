@@ -18,3 +18,5 @@ facilities:
     icon: TbAdjustmentsDollar
   - name: test
     icon: Tb3DCubeSphereOff
+  - name: camera
+    icon: Tb360View
